@@ -1,4 +1,4 @@
-[submodule "meeting-summarizer-api"]
-	path = meeting-summarizer-api
+[submodule "01-meeting-summarizer-api"]
+	path = 01-meeting-summarizer-api
 	url = https://github.com/arshadazaad3/meeting-summarizer-api.git
 	branch = main
