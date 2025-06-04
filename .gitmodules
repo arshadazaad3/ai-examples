@@ -2,3 +2,8 @@
 	path = 01-meeting-summarizer-api
 	url = https://github.com/arshadazaad3/meeting-summarizer-api.git
 	branch = main
+
+[submodule "03-meeting-summarizer-ui"]
+	path = 03-meeting-summarizer-ui
+	url = https://github.com/arshadazaad3/meeting-summarizer-ui.git
+	branch = main
